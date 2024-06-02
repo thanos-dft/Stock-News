@@ -1,2 +1,2 @@
 small project made in pycharm
-using an api
+using an api.
